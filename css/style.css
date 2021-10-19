@@ -1,0 +1,15 @@
+body{
+    background-color: lightslategray;
+
+}
+.game_container{
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    background-color: linen;
+}
+.cell{
+    width: 10%;
+    height: 10%;
+    border: 2px solid grey;
+}
