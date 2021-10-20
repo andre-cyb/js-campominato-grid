@@ -24,6 +24,8 @@ main{
     border-right: 3px solid lightsteelblue;
     border-bottom: 3px solid lightslategrey;
     border-left: 3px solid lightslategrey;
+    cursor: pointer;
+    user-select: none;
     
 }
 .position_rel{
